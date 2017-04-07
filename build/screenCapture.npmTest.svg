@@ -1,0 +1,434 @@
+<svg height="6894" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="6894" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+<tspan x="10" y="42">&gt; npmdoc-prettydiff@0.0.1 test /home/travis/build/npmdoc/node-npmdoc-prettydiff</tspan>
+<tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
+<tspan x="10" y="74"></tspan>
+<tspan x="10" y="90"></tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-07T09:45:37Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="122">prettydiff</tspan>
+<tspan x="10" y="138"></tspan>
+<tspan x="10" y="154"></tspan>
+<tspan x="10" y="170">covering $ /home/travis/.nvm/versions/node/v6.10.2/bin/node /home/travis/build/npmdoc/node-npmdo\</tspan>
+<tspan x="10" y="186">c-prettydiff/test.js</tspan>
+<tspan x="10" y="202">merging file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/build/test-report.json to te\</tspan>
+<tspan x="10" y="218">st-report</tspan>
+<tspan x="10" y="234">&gt; server listening on http-port 52183</tspan>
+<tspan x="10" y="250">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/build/apidoc.html</tspan>
+<tspan x="10" y="266"></tspan>
+<tspan x="10" y="282"></tspan>
+<tspan x="10" y="298">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/e\</tspan>
+<tspan x="10" y="314">lectron.15b47ce0de00.bf58855b3e5fd.html</tspan>
+<tspan x="10" y="330"></tspan>
+<tspan x="10" y="346">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
+<tspan x="10" y="362">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
+<tspan x="10" y="378">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="394"></tspan>
+<tspan x="10" y="410">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/e\</tspan>
+<tspan x="10" y="426">lectron.15b47ce0e270.15e1c1ec979cb.html</tspan>
+<tspan x="10" y="442"></tspan>
+<tspan x="10" y="458">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="474"></tspan>
+<tspan x="10" y="490"></tspan>
+<tspan x="10" y="506">Options</tspan>
+<tspan x="10" y="522"></tspan>
+<tspan x="10" y="538">Arguments      - Type    - Definition</tspan>
+<tspan x="10" y="554">-------------------------------------</tspan>
+<tspan x="10" y="570">* braceline    - boolean - If true a new line character will be inserted after</tspan>
+<tspan x="10" y="586">                           opening curly braces and before closing curly</tspan>
+<tspan x="10" y="602">                            braces. Default is false.</tspan>
+<tspan x="10" y="618"></tspan>
+<tspan x="10" y="634">* bracepadding - boolean - Inserts a space after the start of a contain and</tspan>
+<tspan x="10" y="650">                           before the end of the container in JavaScript if the</tspan>
+<tspan x="10" y="666">                           contents of that container are not indented; such</tspan>
+<tspan x="10" y="682">                           as: conditions, function arguments, and escaped</tspan>
+<tspan x="10" y="698">                           sequences of template strings. Default is false.</tspan>
+<tspan x="10" y="714"></tspan>
+<tspan x="10" y="730">* braces       - string  - If lang is 'javascript' and mode is 'beautify' this</tspan>
+<tspan x="10" y="746">                           determines if opening curly braces will exist on the</tspan>
+<tspan x="10" y="762">                           same line as their condition or be forced onto a new</tspan>
+<tspan x="10" y="778">                           line. Defaults to 'knr'.</tspan>
+<tspan x="10" y="794">                 Accepted values: knr, allman</tspan>
+<tspan x="10" y="810"></tspan>
+<tspan x="10" y="826">* color        - string  - The color scheme of the reports. Default is shadow.</tspan>
+<tspan x="10" y="842">                 Accepted values: default, canvas, shadow, white</tspan>
+<tspan x="10" y="858"></tspan>
+<tspan x="10" y="874">* comments     - string  - If mode is 'beautify' this will determine whether</tspan>
+<tspan x="10" y="890">                           comments should always start at position 0 of each</tspan>
+<tspan x="10" y="906">                           line or if comments should be indented according to</tspan>
+<tspan x="10" y="922">                           sthe code. Default is 'indent'.</tspan>
+<tspan x="10" y="938">                 Accepted values: indent, noindent</tspan>
+<tspan x="10" y="954"></tspan>
+<tspan x="10" y="970">* commline     - boolean - If a blank new line should be forced above comments</tspan>
+<tspan x="10" y="986">                           in markup. Default is false.</tspan>
+<tspan x="10" y="1002"></tspan>
+<tspan x="10" y="1018">* compressedcss - boolean - If CSS should be beautified in a style where the</tspan>
+<tspan x="10" y="1034">                           properties and values are minifed for faster reading</tspan>
+<tspan x="10" y="1050">                           of selectors. Default is false.</tspan>
+<tspan x="10" y="1066"></tspan>
+<tspan x="10" y="1082">* conditional  - boolean - If true then conditional comments used by Internet</tspan>
+<tspan x="10" y="1098">                           Explorer are preserved at minification of markup.</tspan>
+<tspan x="10" y="1114">                           Default is false.</tspan>
+<tspan x="10" y="1130"></tspan>
+<tspan x="10" y="1146">* content      - boolean - If true and mode is 'diff' this will normalize all</tspan>
+<tspan x="10" y="1162">                           string literals in JavaScript to 'text' and all</tspan>
+<tspan x="10" y="1178">                           content in markup to 'text' so as to eliminate some</tspan>
+<tspan x="10" y="1194">                           differences from the HTML diff report. Default is</tspan>
+<tspan x="10" y="1210">                           false.</tspan>
+<tspan x="10" y="1226"></tspan>
+<tspan x="10" y="1242">* context      - number  - This shortens the diff output by allowing a</tspan>
+<tspan x="10" y="1258">                           specified number of equivalent lines between each</tspan>
+<tspan x="10" y="1274">                           line of difference. Defaults to an empty string,</tspan>
+<tspan x="10" y="1290">                           which nullifies its use.</tspan>
+<tspan x="10" y="1306"></tspan>
+<tspan x="10" y="1322">* correct      - boolean - Automatically correct some sloppiness in JavaScript.</tspan>
+<tspan x="10" y="1338">                           The default is 'false' and it is only applied during</tspan>
+<tspan x="10" y="1354">                           JavaScript beautification.</tspan>
+<tspan x="10" y="1370"></tspan>
+<tspan x="10" y="1386">* crlf         - boolean - If line termination should be Windows (LF) format.</tspan>
+<tspan x="10" y="1402">                           Unix (LF) format is the default.</tspan>
+<tspan x="10" y="1418"></tspan>
+<tspan x="10" y="1434">* cssinsertlines - boolean - Inserts new line characters between every CSS code</tspan>
+<tspan x="10" y="1450">                           block. Default is false.</tspan>
+<tspan x="10" y="1466"></tspan>
+<tspan x="10" y="1482">* csvchar      - string  - The character to be used as a separator if lang is</tspan>
+<tspan x="10" y="1498">                           'csv'. Any string combination is accepted. Defaults</tspan>
+<tspan x="10" y="1514">                           to a comma ','.</tspan>
+<tspan x="10" y="1530"></tspan>
+<tspan x="10" y="1546">* diff         - string  - The file to be compared to the source file. This is</tspan>
+<tspan x="10" y="1562">                           required if mode is 'diff'.</tspan>
+<tspan x="10" y="1578"></tspan>
+<tspan x="10" y="1594">* diffcli      - boolean - If true only text lines of the code differences are</tspan>
+<tspan x="10" y="1610">                           returned instead of an HTML diff report. Default is</tspan>
+<tspan x="10" y="1626">                           false.</tspan>
+<tspan x="10" y="1642"></tspan>
+<tspan x="10" y="1658">* diffcomments - boolean - If true then comments will be preserved so that both</tspan>
+<tspan x="10" y="1674">                           code and comments are compared by the diff engine.</tspan>
+<tspan x="10" y="1690"></tspan>
+<tspan x="10" y="1706">* difflabel    - string  - This allows for a descriptive label for the diff</tspan>
+<tspan x="10" y="1722">                           file code of the diff HTML output. Defaults to new'.</tspan>
+<tspan x="10" y="1738"></tspan>
+<tspan x="10" y="1754">* diffspaceignore - boolean - If white space only differences should be ignored</tspan>
+<tspan x="10" y="1770">                           by the diff tool.  Default is false.</tspan>
+<tspan x="10" y="1786"></tspan>
+<tspan x="10" y="1802">* diffview     - string  - This determines whether the diff HTML output should</tspan>
+<tspan x="10" y="1818">                           display as a side-by-side comparison or if the</tspan>
+<tspan x="10" y="1834">                           differences should display in a single table column.</tspan>
+<tspan x="10" y="1850">                           Defaults to 'sidebyside'.</tspan>
+<tspan x="10" y="1866">                 Accepted values: sidebyside, inline</tspan>
+<tspan x="10" y="1882"></tspan>
+<tspan x="10" y="1898">* dustjs       - boolean - If the provided markup code is a Dust.js template.</tspan>
+<tspan x="10" y="1914">                           Takes a boolean and defaults to false.</tspan>
+<tspan x="10" y="1930"></tspan>
+<tspan x="10" y="1946">* elseline     - boolean - If elseline is true then the keyword 'else' is forced</tspan>
+<tspan x="10" y="1962">                           onto a new line in JavaScript beautification.</tspan>
+<tspan x="10" y="1978">                           Defaults to false.</tspan>
+<tspan x="10" y="1994"></tspan>
+<tspan x="10" y="2010">* endcomma     - boolean - If there should be a trailing comma in JavaScript</tspan>
+<tspan x="10" y="2026">                           arrays and objects.</tspan>
+<tspan x="10" y="2042"></tspan>
+<tspan x="10" y="2058">* endquietly   - string  - Determine if terminal logging should be allowed or </tspan>
+<tspan x="10" y="2074">                           suppressed.  The value 'quiet' eliminates terminal</tspan>
+<tspan x="10" y="2090">                           logging and the value 'log' forces it to appear.</tspan>
+<tspan x="10" y="2106">                 Accepted values: quiet, log, empty string</tspan>
+<tspan x="10" y="2122"></tspan>
+<tspan x="10" y="2138">* force_attribute - boolean - If all markup attributes should be indented each</tspan>
+<tspan x="10" y="2154">                           onto their own line.  Default is false.</tspan>
+<tspan x="10" y="2170"></tspan>
+<tspan x="10" y="2186">* force_indent - boolean - If lang is 'markup' this will force indentation upon</tspan>
+<tspan x="10" y="2202">                           all content and tags without regard for the creation</tspan>
+<tspan x="10" y="2218">                           of new text nodes. Default is false.</tspan>
+<tspan x="10" y="2234"></tspan>
+<tspan x="10" y="2250">* help         - string  - This list of argument definitions. The value is</tspan>
+<tspan x="10" y="2266">                           unnecessary and is required only to pass in use of</tspan>
+<tspan x="10" y="2282">                           the parameter.</tspan>
+<tspan x="10" y="2298"></tspan>
+<tspan x="10" y="2314">* html         - boolean - If lang is 'markup' this will provide an override so</tspan>
+<tspan x="10" y="2330">                           that some tags are treated as singletons and not</tspan>
+<tspan x="10" y="2346">                           start tags, such as '&lt;br&gt;' opposed to '&lt;br/&gt;'.</tspan>
+<tspan x="10" y="2362"></tspan>
+<tspan x="10" y="2378">* inchar       - string  - The string characters to comprise a single</tspan>
+<tspan x="10" y="2394">                           indentation. Any string combination is accepted.</tspan>
+<tspan x="10" y="2410">                           Defaults to space ' '.</tspan>
+<tspan x="10" y="2426"></tspan>
+<tspan x="10" y="2442">* inlevel      - number  - How much indentation padding should be applied to</tspan>
+<tspan x="10" y="2458">                           JavaScript beautification?  Default is 0.</tspan>
+<tspan x="10" y="2474"></tspan>
+<tspan x="10" y="2490">* insize       - number  - The number of characters to comprise a single</tspan>
+<tspan x="10" y="2506">                           indentation. Defaults to '4'.</tspan>
+<tspan x="10" y="2522"></tspan>
+<tspan x="10" y="2538">* jsscope      - string  - If 'html' JavaScript beautification produces HTML</tspan>
+<tspan x="10" y="2554">                           formatted output coloring function scope and</tspan>
+<tspan x="10" y="2570">                           variables to indicate scope depth and inheritance.</tspan>
+<tspan x="10" y="2586">                           The value 'report' is similar to the value 'html',</tspan>
+<tspan x="10" y="2602">                           except that it forms the entirety of an HTML</tspan>
+<tspan x="10" y="2618">                           document. Default is 'none', which just returns</tspan>
+<tspan x="10" y="2634">                           beautified JavaScript in text format.</tspan>
+<tspan x="10" y="2650">                 Accepted values: none, report, html</tspan>
+<tspan x="10" y="2666"></tspan>
+<tspan x="10" y="2682">* lang         - string  - The programming language of the source file.</tspan>
+<tspan x="10" y="2698">                           Defaults to auto.</tspan>
+<tspan x="10" y="2714">                 Accepted values: auto, markup, javascript, css, html, csv, text</tspan>
+<tspan x="10" y="2730"></tspan>
+<tspan x="10" y="2746">* langdefault  - string  - The fallback option if lang is set to 'auto' and a</tspan>
+<tspan x="10" y="2762">                           language cannot be detected.</tspan>
+<tspan x="10" y="2778">                 Accepted values: markup, javascript, css, html, csv, text</tspan>
+<tspan x="10" y="2794"></tspan>
+<tspan x="10" y="2810">* methodchain  - string  - Whether consecutive JavaScript methods should be</tspan>
+<tspan x="10" y="2826">                           chained onto a single line of code instead of</tspan>
+<tspan x="10" y="2842">                           indented. Default is 'indent'.</tspan>
+<tspan x="10" y="2858">                 Accepted values: chain, indent, none</tspan>
+<tspan x="10" y="2874"></tspan>
+<tspan x="10" y="2890">* miniwrap     - boolean - Whether minified JavaScript should wrap after a</tspan>
+<tspan x="10" y="2906">                           specified character width. This option requires a</tspan>
+<tspan x="10" y="2922">                           value from option 'wrap'.</tspan>
+<tspan x="10" y="2938"></tspan>
+<tspan x="10" y="2954">* mode         - string  - The operation to be performed. Defaults to 'diff'.</tspan>
+<tspan x="10" y="2970">                           * diff     - returns either command line list of</tspan>
+<tspan x="10" y="2986">                                        differences or an HTML report</tspan>
+<tspan x="10" y="3002">                           * beautify - beautifies code and returns a string</tspan>
+<tspan x="10" y="3018">                           * minify   - minifies code and returns a string</tspan>
+<tspan x="10" y="3034">                           * parse    - returns an object with shallow arrays</tspan>
+<tspan x="10" y="3050">                 Accepted values: diff, beautify, minify, parse</tspan>
+<tspan x="10" y="3066"></tspan>
+<tspan x="10" y="3082">* neverflatten - boolean - If destructured lists in JavaScript should never be</tspan>
+<tspan x="10" y="3098">                           flattend. Default is false.</tspan>
+<tspan x="10" y="3114"></tspan>
+<tspan x="10" y="3130">* nocaseindent - boolean - If a case statement should receive the same</tspan>
+<tspan x="10" y="3146">                           indentation as the containing switch block.</tspan>
+<tspan x="10" y="3162"></tspan>
+<tspan x="10" y="3178">* nochainindent - boolean - If indentation should be prevent of JavaScript method</tspan>
+<tspan x="10" y="3194">                           chains broken onto multiple lines. Default is false.</tspan>
+<tspan x="10" y="3210"></tspan>
+<tspan x="10" y="3226">* noleadzero   - boolean - If in CSS values leading 0s immediately preceeding a</tspan>
+<tspan x="10" y="3242">                           decimal should be removed or prevented.</tspan>
+<tspan x="10" y="3258"></tspan>
+<tspan x="10" y="3274">* objsort      - string  - Sorts properties by key name in JavaScript and/or</tspan>
+<tspan x="10" y="3290">                           CSS. Defaults to 'js'.</tspan>
+<tspan x="10" y="3306">                 Accepted values: all, css, js, markup, none</tspan>
+<tspan x="10" y="3322"></tspan>
+<tspan x="10" y="3338">* output       - string  - The path of the directory, if readmethod is value</tspan>
+<tspan x="10" y="3354">                           'directory', or path and name of the file to write</tspan>
+<tspan x="10" y="3370">                           the output.  If the directory path or file exists it</tspan>
+<tspan x="10" y="3386">                           will be over written else it will be created.</tspan>
+<tspan x="10" y="3402"></tspan>
+<tspan x="10" y="3418">* preserve     - number  - The maximum number of empty lines to retain.</tspan>
+<tspan x="10" y="3434"></tspan>
+<tspan x="10" y="3450">* quote        - boolean - If true and mode is 'diff' then all single quote</tspan>
+<tspan x="10" y="3466">                           characters will be replaced by double quote</tspan>
+<tspan x="10" y="3482">                           characters in both the source and diff file input so</tspan>
+<tspan x="10" y="3498">                           as to eliminate some differences from the diff</tspan>
+<tspan x="10" y="3514">                           report HTML output.</tspan>
+<tspan x="10" y="3530"></tspan>
+<tspan x="10" y="3546">* quoteConvert - string  - If the quotes of JavaScript strings or markup</tspan>
+<tspan x="10" y="3562">                           attributes should be converted to single quotes or</tspan>
+<tspan x="10" y="3578">                           double quotes. The default is 'none', which performs</tspan>
+<tspan x="10" y="3594">                           no conversion.</tspan>
+<tspan x="10" y="3610">                 Accepted values: double, single, none</tspan>
+<tspan x="10" y="3626"></tspan>
+<tspan x="10" y="3642">* readmethod   - string  - The readmethod determines if operating with IO from</tspan>
+<tspan x="10" y="3658">                           command line or IO from files.  Default value is</tspan>
+<tspan x="10" y="3674">                           'screen':</tspan>
+<tspan x="10" y="3690">                           * auto         - changes to value subdirectory,</tspan>
+<tspan x="10" y="3706">                                            file, or screen depending on the</tspan>
+<tspan x="10" y="3722">                                            source</tspan>
+<tspan x="10" y="3738">                           * screen       - reads from screen and outputs to</tspan>
+<tspan x="10" y="3754">                                            screen</tspan>
+<tspan x="10" y="3770">                           * file         - reads a file and outputs to a file</tspan>
+<tspan x="10" y="3786">                                          - file requires option 'output'</tspan>
+<tspan x="10" y="3802">                           * filescreen   - reads a file and writes to screen</tspan>
+<tspan x="10" y="3818">                           * directory    - process all files in the immediate</tspan>
+<tspan x="10" y="3834">                                            directory</tspan>
+<tspan x="10" y="3850">                           * subdirectory - process all files in a directory</tspan>
+<tspan x="10" y="3866">                                            and its subdirectories</tspan>
+<tspan x="10" y="3882">                 Accepted values: auto, screen, file, filescreen, directory,</tspan>
+<tspan x="10" y="3898">                                  subdirectory</tspan>
+<tspan x="10" y="3914"></tspan>
+<tspan x="10" y="3930">* report       - boolean - Determines whether a report file should be created.</tspan>
+<tspan x="10" y="3946">                           The default value is true.  If false reports will be</tspan>
+<tspan x="10" y="3962">                           suppressed for 'beautify' and 'minify' modes if</tspan>
+<tspan x="10" y="3978">                           readmethod is 'file' or 'directory'.</tspan>
+<tspan x="10" y="3994"></tspan>
+<tspan x="10" y="4010">* selectorlist - boolean - If comma separated CSS selectors should be retained</tspan>
+<tspan x="10" y="4026">                           on a single line of code.</tspan>
+<tspan x="10" y="4042"></tspan>
+<tspan x="10" y="4058">* semicolon    - boolean - If true and mode is 'diff' and lang is 'javascript'</tspan>
+<tspan x="10" y="4074">                           all semicolon characters that immediately preceed</tspan>
+<tspan x="10" y="4090">                           any white space containing a new line character will</tspan>
+<tspan x="10" y="4106">                           be removed so as to elimate some differences from</tspan>
+<tspan x="10" y="4122">                           the diff report HTML output.</tspan>
+<tspan x="10" y="4138"></tspan>
+<tspan x="10" y="4154">* source       - string  - The file source for interpretation. This is required.</tspan>
+<tspan x="10" y="4170"></tspan>
+<tspan x="10" y="4186">* sourcelabel  - string  - This allows for a descriptive label of the source</tspan>
+<tspan x="10" y="4202">                           file code of the diff HTML output.</tspan>
+<tspan x="10" y="4218"></tspan>
+<tspan x="10" y="4234">* space        - boolean - If false the space following the function keyword</tspan>
+<tspan x="10" y="4250">                           for anonymous functions is removed. Default is true.</tspan>
+<tspan x="10" y="4266"></tspan>
+<tspan x="10" y="4282">* spaceclose   - boolean - If false markup self-closing tags end with '/&gt;' and</tspan>
+<tspan x="10" y="4298">                           ' /&gt;' if true. Default is false.</tspan>
+<tspan x="10" y="4314"></tspan>
+<tspan x="10" y="4330">* style        - string  - If mode is 'beautify' and lang is 'markup' or 'html'</tspan>
+<tspan x="10" y="4346">                           this will determine whether the contents of script</tspan>
+<tspan x="10" y="4362">                           and style tags should always start at position 0 of</tspan>
+<tspan x="10" y="4378">                           each line or if such content should be indented</tspan>
+<tspan x="10" y="4394">                           starting from the opening script or style tag.</tspan>
+<tspan x="10" y="4410">                           Default is 'indent'.</tspan>
+<tspan x="10" y="4426">                 Accepted values: indent, noindent</tspan>
+<tspan x="10" y="4442"></tspan>
+<tspan x="10" y="4458">* styleguide   - string  - Provides a collection of option presets to easily</tspan>
+<tspan x="10" y="4474">                           conform to popular JavaScript style guides. Default</tspan>
+<tspan x="10" y="4490">                           is 'none'.</tspan>
+<tspan x="10" y="4506">                 Accepted values: airbnb, crockford, google, grunt, jquery,</tspan>
+<tspan x="10" y="4522">                                  mediawiki, meteor, yandex, none</tspan>
+<tspan x="10" y="4538"></tspan>
+<tspan x="10" y="4554">* summaryonly  - boolean - Node only option to output only number of</tspan>
+<tspan x="10" y="4570">                           differences and generate no reports. Default is</tspan>
+<tspan x="10" y="4586">                           false.</tspan>
+<tspan x="10" y="4602"></tspan>
+<tspan x="10" y="4618">* tagmerge     - boolean - Allows immediately adjacement start and end markup</tspan>
+<tspan x="10" y="4634">                           tags of the same name to be combined into a single</tspan>
+<tspan x="10" y="4650">                           self-closing tag. Default is false.</tspan>
+<tspan x="10" y="4666"></tspan>
+<tspan x="10" y="4682">* tagsort      - boolean - Sort child items of each respective markup parent</tspan>
+<tspan x="10" y="4698">                           element.</tspan>
+<tspan x="10" y="4714"></tspan>
+<tspan x="10" y="4730">* textpreserve - boolean - If text in the provided markup code should be</tspan>
+<tspan x="10" y="4746">                           preserved exactly as provided. This option</tspan>
+<tspan x="10" y="4762">                           eliminates beautification and wrapping of text</tspan>
+<tspan x="10" y="4778">                           content.  Takes a boolean and defaults to false.</tspan>
+<tspan x="10" y="4794"></tspan>
+<tspan x="10" y="4810">* ternaryline  - boolean - If ternary operators in JavaScript (? and :) should</tspan>
+<tspan x="10" y="4826">                           remain on the same line.  Defaults to false.</tspan>
+<tspan x="10" y="4842"></tspan>
+<tspan x="10" y="4858">* titanium     - boolean - Forces the JavaScript parser to parse Titanium Style</tspan>
+<tspan x="10" y="4874">                           Sheets instead of JavaScript. Default is false.</tspan>
+<tspan x="10" y="4890"></tspan>
+<tspan x="10" y="4906">* topcoms      - boolean - If mode is 'minify' this determines whether comments</tspan>
+<tspan x="10" y="4922">                           above the first line of code should be kept. Default</tspan>
+<tspan x="10" y="4938">                           is false.</tspan>
+<tspan x="10" y="4954"></tspan>
+<tspan x="10" y="4970">* varword      - string  - If consecutive JavaScript variables should be merged</tspan>
+<tspan x="10" y="4986">                           into a comma separated list ('list') or the opposite</tspan>
+<tspan x="10" y="5002">                           ('each'). Default is 'none'.</tspan>
+<tspan x="10" y="5018">                 Accepted values: each, list, none</tspan>
+<tspan x="10" y="5034"></tspan>
+<tspan x="10" y="5050">* vertical     - string  - If lists of assignments and properties should be</tspan>
+<tspan x="10" y="5066">                           vertically aligned. Default is 'js'.</tspan>
+<tspan x="10" y="5082">                 Accepted values: all, css, js, none</tspan>
+<tspan x="10" y="5098"></tspan>
+<tspan x="10" y="5114">* wrap         - number  - How many characters text content in markup or</tspan>
+<tspan x="10" y="5130">                           strings in JavaScript can be before wrapping. The</tspan>
+<tspan x="10" y="5146">                           default value is 80. A value of turns this feature</tspan>
+<tspan x="10" y="5162">                           off. A value of -1 will concatenate strings in</tspan>
+<tspan x="10" y="5178">                           JavaScript separated by a '+' operator. In markup</tspan>
+<tspan x="10" y="5194">                           wrapping occurs on the last space character prior to</tspan>
+<tspan x="10" y="5210">                           the given character width</tspan>
+<tspan x="10" y="5226"></tspan>
+<tspan x="10" y="5242">Usage</tspan>
+<tspan x="10" y="5258">prettydiff option1:"value" option2:"value" ...</tspan>
+<tspan x="10" y="5274">prettydiff source:"myApplication.js" readmethod:"filescreen" mode:"beautify"</tspan>
+<tspan x="10" y="5290">prettydiff source:"old_directory" diff:"new_directory" readmethod:"subdirectory"</tspan>
+<tspan x="10" y="5306"></tspan>
+<tspan x="10" y="5322">Version: 1.16.37 Dated: 17 March 2016</tspan>
+<tspan x="10" y="5338"></tspan>
+<tspan x="10" y="5354">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="5370">merging file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/build/test-report.json to te\</tspan>
+<tspan x="10" y="5386">st-report</tspan>
+<tspan x="10" y="5402">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="5418">[4914:0407/094538:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="5434">[4914:0407/094538:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="5450">&gt; server listening on http-port 49917</tspan>
+<tspan x="10" y="5466">[4955:0407/094538:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="5482">in process gpu-process. </tspan>
+<tspan x="10" y="5498">[4914:0407/094538:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="5514">merging file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/build/test-report.json to te\</tspan>
+<tspan x="10" y="5530">st-report</tspan>
+<tspan x="10" y="5546">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="5562">[4928:0407/094539:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="5578">[4928:0407/094539:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="5594">[4990:0407/094539:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="5610">in process gpu-process. </tspan>
+<tspan x="10" y="5626"></tspan>
+<tspan x="10" y="5642">browserTest - opened url /home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/build/apidoc.html</tspan>
+<tspan x="10" y="5658"></tspan>
+<tspan x="10" y="5674"></tspan>
+<tspan x="10" y="5690">browserTest - opened url http://127.0.0.1:52183?modeTest=1</tspan>
+<tspan x="10" y="5706"></tspan>
+<tspan x="10" y="5722">[4928:0407/094541:INFO:CONSOLE(250)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="5738">|</tspan>
+<tspan x="10" y="5754">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="5770">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="5786">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="5802">All files |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="5818">----------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="5834">", source: file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/electron.15b47ce0e270.15e\</tspan>
+<tspan x="10" y="5850">1c1ec979cb.html (250)</tspan>
+<tspan x="10" y="5866">[4928:0407/094541:INFO:CONSOLE(250)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="5882">l", source: file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/electron.15b47ce0e270.15\</tspan>
+<tspan x="10" y="5898">e1c1ec979cb.html (250)</tspan>
+<tspan x="10" y="5914">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="5930"></tspan>
+<tspan x="10" y="5946">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/\</tspan>
+<tspan x="10" y="5962">build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-prettydiff_2\</tspan>
+<tspan x="10" y="5978">Ftmp_2Fbuild_2Fapidoc.html.png</tspan>
+<tspan x="10" y="5994"></tspan>
+<tspan x="10" y="6010">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/\</tspan>
+<tspan x="10" y="6026">build/screenCapture.npmTest.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-prettydiff_2\</tspan>
+<tspan x="10" y="6042">Ftmp_2Fbuild_2Fapidoc.html.html</tspan>
+<tspan x="10" y="6058"></tspan>
+<tspan x="10" y="6074">browserTest - exit-code 0 - /home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/build/apidoc.ht\</tspan>
+<tspan x="10" y="6090">ml</tspan>
+<tspan x="10" y="6106"></tspan>
+<tspan x="10" y="6122">[node test-case 5 of 6 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="6138"></tspan>
+<tspan x="10" y="6154">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/\</tspan>
+<tspan x="10" y="6170">build/screenCapture.npmTest.browser..png</tspan>
+<tspan x="10" y="6186"></tspan>
+<tspan x="10" y="6202">browserTest - created screenCapture file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/\</tspan>
+<tspan x="10" y="6218">build/screenCapture.npmTest.browser..html</tspan>
+<tspan x="10" y="6234"></tspan>
+<tspan x="10" y="6250">browserTest - exit-code 0 - http://127.0.0.1:52183?modeTest=1</tspan>
+<tspan x="10" y="6266"></tspan>
+<tspan x="10" y="6282"></tspan>
+<tspan x="10" y="6298">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/coverage\</tspan>
+<tspan x="10" y="6314">.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="6330"></tspan>
+<tspan x="10" y="6346"></tspan>
+<tspan x="10" y="6362">browserTest - merging test-report from /home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/test\</tspan>
+<tspan x="10" y="6378">-report.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="6394"></tspan>
+<tspan x="10" y="6410">[node test-case 6 of 6 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="6426">-------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="6442">File                           |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="6458">-------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="6474">   node-npmdoc-prettydiff/     |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="6490">      example.js               |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="6506">      lib.npmdoc_prettydiff.js |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="6522">      test.js                  |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="6538">-------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="6554">All files                      |       100 |       100 |       100 |       100 |</tspan>
+<tspan x="10" y="6570">-------------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="6586"></tspan>
+<tspan x="10" y="6602">created coverage file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/build/coverage.html\</tspan>
+<tspan x="10" y="6618">/index.html</tspan>
+<tspan x="10" y="6634">merging file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/build/test-report.json to te\</tspan>
+<tspan x="10" y="6650">st-report</tspan>
+<tspan x="10" y="6666"></tspan>
+<tspan x="10" y="6682">-------------------------------------------------------</tspan>
+<tspan x="10" y="6698">| test-report - buildNpmdoc - node - linux v6.10.2 - 2017-04-07T09:45:16.977Z</tspan>
+<tspan x="10" y="6714">|   36277 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="6730">-------------------------------------------------------</tspan>
+<tspan x="10" y="6746"></tspan>
+<tspan x="10" y="6762">created test-report file:///home/travis/build/npmdoc/node-npmdoc-prettydiff/tmp/build/test-repor\</tspan>
+<tspan x="10" y="6778">t.html</tspan>
+<tspan x="10" y="6794"></tspan>
+<tspan x="10" y="6810"></tspan>
+<tspan x="10" y="6826">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="6842"></tspan>
+<tspan x="10" y="6858"></tspan>
+<tspan x="10" y="6874">[MODE_BUILD=npmTest] - 2017-04-07T09:45:56Z - EXIT_CODE - 0</tspan>
+</text>
+</svg>

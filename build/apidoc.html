@@ -1,0 +1,484 @@
+<div class="apidocDiv">
+<style>
+/*csslint
+*/
+.apidocDiv {
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.apidocDiv a[href] {
+    color: #33f;
+    font-weight: bold;
+    text-decoration: none;
+}
+.apidocDiv a[href]:hover {
+    text-decoration: underline;
+}
+.apidocCodeCommentSpan {
+    background: #bbf;
+    color: #000;
+    display: block;
+}
+.apidocCodeKeywordSpan {
+    color: #d00;
+    font-weight: bold;
+}
+.apidocCodePre {
+    background: #eef;
+    border: 1px solid;
+    color: #777;
+    padding: 5px;
+    white-space: pre-wrap;
+}
+.apidocFooterDiv {
+    margin-top: 20px;
+    text-align: center;
+}
+.apidocModuleLi {
+    margin-top: 10px;
+}
+.apidocSectionDiv {
+    border-top: 1px solid;
+    margin-top: 20px;
+}
+.apidocSignatureSpan {
+    color: #777;
+    font-weight: bold;
+}
+</style>
+<h1>api documentation for
+    <a
+
+        href="http://prettydiff.com/"
+
+    >prettydiff (v99.0.1)</a>
+</h1>
+<h4>Language aware code comparison tool for several web based languages. It also beautifies, minifies, and a few other things.</h4>
+<div class="apidocSectionDiv"><a
+    href="#apidoc.tableOfContents"
+    id="apidoc.tableOfContents"
+><h1>table of contents</h1></a><ol>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.prettydiff">module prettydiff</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.prettydiff.api">
+            function <span class="apidocSignatureSpan">prettydiff.</span>api
+            <span class="apidocSignatureSpan">(x)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">prettydiff.</span>csspretty</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">prettydiff.</span>csvpretty</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">prettydiff.</span>diffview</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">prettydiff.</span>edition</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">prettydiff.</span>jspretty</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">prettydiff.</span>markuppretty</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">prettydiff.</span>safeSort</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">string <span class="apidocSignatureSpan">prettydiff.</span>report</span>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.prettydiff.csspretty">module prettydiff.csspretty</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.prettydiff.csspretty.api">
+            function <span class="apidocSignatureSpan">prettydiff.csspretty.</span>api
+            <span class="apidocSignatureSpan">(x)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.prettydiff.csvpretty">module prettydiff.csvpretty</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.prettydiff.csvpretty.api">
+            function <span class="apidocSignatureSpan">prettydiff.csvpretty.</span>api
+            <span class="apidocSignatureSpan">(x)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.prettydiff.diffview">module prettydiff.diffview</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.prettydiff.diffview.api">
+            function <span class="apidocSignatureSpan">prettydiff.diffview.</span>api
+            <span class="apidocSignatureSpan">(x)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.prettydiff.jspretty">module prettydiff.jspretty</a><ol>
+
+        <li>
+
+            <span class="apidocSignatureSpan">boolean <span class="apidocSignatureSpan">prettydiff.jspretty.</span>jsxstatus</span>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.prettydiff.jspretty.api">
+            function <span class="apidocSignatureSpan">prettydiff.jspretty.</span>api
+            <span class="apidocSignatureSpan">(x)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.prettydiff.markuppretty">module prettydiff.markuppretty</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.prettydiff.markuppretty.api">
+            function <span class="apidocSignatureSpan">prettydiff.markuppretty.</span>api
+            <span class="apidocSignatureSpan">(x)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.prettydiff.safeSort">module prettydiff.safeSort</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.prettydiff.safeSort.api">
+            function <span class="apidocSignatureSpan">prettydiff.safeSort.</span>api
+            <span class="apidocSignatureSpan">(x)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+</ol></div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.prettydiff" id="apidoc.module.prettydiff">module prettydiff</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.prettydiff.api" id="apidoc.element.prettydiff.api">
+        function <span class="apidocSignatureSpan">prettydiff.</span>api
+        <span class="apidocSignatureSpan">(x)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function commonjs(x) {
+    &#x22;use strict&#x22;;
+    return prettydiff(x);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+
+var prettydiff = require(&#x22;prettydiff&#x22;),
+    args       = {
+        source: &#x22;asdf&#x22;,
+        diff  : &#x22;asdd&#x22;,
+        lang  : &#x22;text&#x22;
+    },
+    output     = prettydiff.<span class="apidocCodeKeywordSpan">api</span>(args);
+
+ Execute on command line with NodeJS:
+
+npm install prettydiff -g     (global install)
+
+prettydiff source:&#x22;c:\mydirectory\myfile.js&#x22; readmethod:&#x22;file&#x22; diff:&#x22;c:\myotherfile.js&#x22;
+...</pre></li>
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.prettydiff.csspretty" id="apidoc.module.prettydiff.csspretty">module prettydiff.csspretty</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.prettydiff.csspretty.api" id="apidoc.element.prettydiff.csspretty.api">
+        function <span class="apidocSignatureSpan">prettydiff.csspretty.</span>api
+        <span class="apidocSignatureSpan">(x)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function commonjs(x) {
+    &#x22;use strict&#x22;;
+    return csspretty(x);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+
+var prettydiff = require(&#x22;prettydiff&#x22;),
+    args       = {
+        source: &#x22;asdf&#x22;,
+        diff  : &#x22;asdd&#x22;,
+        lang  : &#x22;text&#x22;
+    },
+    output     = prettydiff.<span class="apidocCodeKeywordSpan">api</span>(args);
+
+ Execute on command line with NodeJS:
+
+npm install prettydiff -g     (global install)
+
+prettydiff source:&#x22;c:\mydirectory\myfile.js&#x22; readmethod:&#x22;file&#x22; diff:&#x22;c:\myotherfile.js&#x22;
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.prettydiff.csvpretty" id="apidoc.module.prettydiff.csvpretty">module prettydiff.csvpretty</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.prettydiff.csvpretty.api" id="apidoc.element.prettydiff.csvpretty.api">
+        function <span class="apidocSignatureSpan">prettydiff.csvpretty.</span>api
+        <span class="apidocSignatureSpan">(x)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function commonjs(x) {
+    &#x22;use strict&#x22;;
+    return csvpretty(x);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+
+var prettydiff = require(&#x22;prettydiff&#x22;),
+    args       = {
+        source: &#x22;asdf&#x22;,
+        diff  : &#x22;asdd&#x22;,
+        lang  : &#x22;text&#x22;
+    },
+    output     = prettydiff.<span class="apidocCodeKeywordSpan">api</span>(args);
+
+ Execute on command line with NodeJS:
+
+npm install prettydiff -g     (global install)
+
+prettydiff source:&#x22;c:\mydirectory\myfile.js&#x22; readmethod:&#x22;file&#x22; diff:&#x22;c:\myotherfile.js&#x22;
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.prettydiff.diffview" id="apidoc.module.prettydiff.diffview">module prettydiff.diffview</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.prettydiff.diffview.api" id="apidoc.element.prettydiff.diffview.api">
+        function <span class="apidocSignatureSpan">prettydiff.diffview.</span>api
+        <span class="apidocSignatureSpan">(x)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function commonjs(x) {
+    &#x22;use strict&#x22;;
+    return diffview(x);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+
+var prettydiff = require(&#x22;prettydiff&#x22;),
+    args       = {
+        source: &#x22;asdf&#x22;,
+        diff  : &#x22;asdd&#x22;,
+        lang  : &#x22;text&#x22;
+    },
+    output     = prettydiff.<span class="apidocCodeKeywordSpan">api</span>(args);
+
+ Execute on command line with NodeJS:
+
+npm install prettydiff -g     (global install)
+
+prettydiff source:&#x22;c:\mydirectory\myfile.js&#x22; readmethod:&#x22;file&#x22; diff:&#x22;c:\myotherfile.js&#x22;
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.prettydiff.jspretty" id="apidoc.module.prettydiff.jspretty">module prettydiff.jspretty</a></h1>
+
+
+
+
+    <h2>
+        <a href="#apidoc.element.prettydiff.jspretty.api" id="apidoc.element.prettydiff.jspretty.api">
+        function <span class="apidocSignatureSpan">prettydiff.jspretty.</span>api
+        <span class="apidocSignatureSpan">(x)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function commonjs(x) {
+    &#x22;use strict&#x22;;
+    return jspretty(x);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+
+var prettydiff = require(&#x22;prettydiff&#x22;),
+    args       = {
+        source: &#x22;asdf&#x22;,
+        diff  : &#x22;asdd&#x22;,
+        lang  : &#x22;text&#x22;
+    },
+    output     = prettydiff.<span class="apidocCodeKeywordSpan">api</span>(args);
+
+ Execute on command line with NodeJS:
+
+npm install prettydiff -g     (global install)
+
+prettydiff source:&#x22;c:\mydirectory\myfile.js&#x22; readmethod:&#x22;file&#x22; diff:&#x22;c:\myotherfile.js&#x22;
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.prettydiff.markuppretty" id="apidoc.module.prettydiff.markuppretty">module prettydiff.markuppretty</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.prettydiff.markuppretty.api" id="apidoc.element.prettydiff.markuppretty.api">
+        function <span class="apidocSignatureSpan">prettydiff.markuppretty.</span>api
+        <span class="apidocSignatureSpan">(x)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function commonjs(x) {
+    &#x22;use strict&#x22;;
+    return markuppretty(x);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+
+var prettydiff = require(&#x22;prettydiff&#x22;),
+    args       = {
+        source: &#x22;asdf&#x22;,
+        diff  : &#x22;asdd&#x22;,
+        lang  : &#x22;text&#x22;
+    },
+    output     = prettydiff.<span class="apidocCodeKeywordSpan">api</span>(args);
+
+ Execute on command line with NodeJS:
+
+npm install prettydiff -g     (global install)
+
+prettydiff source:&#x22;c:\mydirectory\myfile.js&#x22; readmethod:&#x22;file&#x22; diff:&#x22;c:\myotherfile.js&#x22;
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.prettydiff.safeSort" id="apidoc.module.prettydiff.safeSort">module prettydiff.safeSort</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.prettydiff.safeSort.api" id="apidoc.element.prettydiff.safeSort.api">
+        function <span class="apidocSignatureSpan">prettydiff.safeSort.</span>api
+        <span class="apidocSignatureSpan">(x)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function commonjs(x) {
+    &#x22;use strict&#x22;;
+    return safeSort(x);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+
+var prettydiff = require(&#x22;prettydiff&#x22;),
+    args       = {
+        source: &#x22;asdf&#x22;,
+        diff  : &#x22;asdd&#x22;,
+        lang  : &#x22;text&#x22;
+    },
+    output     = prettydiff.<span class="apidocCodeKeywordSpan">api</span>(args);
+
+ Execute on command line with NodeJS:
+
+npm install prettydiff -g     (global install)
+
+prettydiff source:&#x22;c:\mydirectory\myfile.js&#x22; readmethod:&#x22;file&#x22; diff:&#x22;c:\myotherfile.js&#x22;
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocFooterDiv">
+    [ this document was created with
+    <a href="https://github.com/kaizhu256/node-utility2" target="_blank">utility2</a>
+    ]
+</div>
+</div>
