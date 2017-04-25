@@ -1,199 +1,199 @@
 <svg height="3134" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3134" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 09:47:48 +0000 12025213 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 09:47:48 +0000      322 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 09:47:48 +0000   606944 bytes  api/dom.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 09:47:48 +0000   261964 bytes  api/node-local.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 09:47:48 +0000   211536 bytes  api/prettydiff.wsf</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 09:47:48 +0000       49 bytes  bin/prettydiff</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 09:47:48 +0000      866 bytes  bower.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 09:47:48 +0000     4253 bytes  changelog.md</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 09:47:48 +0000    30745 bytes  css/color_canvas.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 09:47:48 +0000    31681 bytes  css/color_shadow.css</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 09:47:48 +0000    27839 bytes  css/color_white.css</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 09:47:48 +0000     1414 bytes  css/documentation.css</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 09:47:48 +0000     3320 bytes  css/global.css</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 09:47:48 +0000     1671 bytes  css/index.css</tspan>
-<tspan x="10" y="250"> 14.  2017-04-07 09:47:48 +0000      745 bytes  css/page_specific.css</tspan>
-<tspan x="10" y="266"> 15.  2017-04-07 09:47:48 +0000     4968 bytes  css/reports.css</tspan>
-<tspan x="10" y="282"> 16.  2017-04-07 09:47:48 +0000    20966 bytes  css/webtool_only.css</tspan>
-<tspan x="10" y="298"> 17.  2017-04-07 09:47:48 +0000   135252 bytes  documentation.xhtml</tspan>
-<tspan x="10" y="314"> 18.  2017-04-07 09:47:48 +0000    43951 bytes  guide/closure_with_jsscope.xhtml</tspan>
-<tspan x="10" y="330"> 19.  2017-04-07 09:47:48 +0000    27412 bytes  guide/codeArchitecture.xhtml</tspan>
-<tspan x="10" y="346"> 20.  2017-04-07 09:47:48 +0000    11089 bytes  guide/diffcli.xhtml</tspan>
-<tspan x="10" y="362"> 21.  2017-04-07 09:47:48 +0000     9390 bytes  guide/jscorrect.xhtml</tspan>
-<tspan x="10" y="378"> 22.  2017-04-07 09:47:48 +0000    14443 bytes  guide/jshtml.xhtml</tspan>
-<tspan x="10" y="394"> 23.  2017-04-07 09:47:48 +0000    13733 bytes  guide/nativeModules.xhtml</tspan>
-<tspan x="10" y="410"> 24.  2017-04-07 09:47:48 +0000     8260 bytes  guide/prettydiffrc.xhtml</tspan>
-<tspan x="10" y="426"> 25.  2017-04-07 09:47:48 +0000    16926 bytes  guide/react_jsx.xhtml</tspan>
-<tspan x="10" y="442"> 26.  2017-04-07 09:47:48 +0000    11137 bytes  guide/styleguide.xhtml</tspan>
-<tspan x="10" y="458"> 27.  2017-04-07 09:47:48 +0000     8091 bytes  guide/tag_ignore.xhtml</tspan>
-<tspan x="10" y="474"> 28.  2017-04-07 09:47:48 +0000    50098 bytes  guide/unrelated_abtest.xhtml</tspan>
-<tspan x="10" y="490"> 29.  2017-04-07 09:47:48 +0000    15787 bytes  guide/unrelated_closureToAChild.xhtml</tspan>
-<tspan x="10" y="506"> 30.  2017-04-07 09:47:48 +0000    48080 bytes  guide/unrelated_dom.xhtml</tspan>
-<tspan x="10" y="522"> 31.  2017-04-07 09:47:48 +0000    28966 bytes  guide/unrelated_rockstar.xhtml</tspan>
-<tspan x="10" y="538"> 32.  2017-04-07 09:47:48 +0000       43 bytes  inch.json</tspan>
-<tspan x="10" y="554"> 33.  2017-04-07 09:47:48 +0000   109917 bytes  index.xhtml</tspan>
-<tspan x="10" y="570"> 34.  2017-04-07 09:47:48 +0000    18863 bytes  jspretty.xhtml</tspan>
-<tspan x="10" y="586"> 35.  2017-04-07 09:47:48 +0000    96882 bytes  lib/csspretty.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-07 09:47:48 +0000     4200 bytes  lib/csvpretty.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-07 09:47:48 +0000    72281 bytes  lib/diffview.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-07 09:47:48 +0000   301959 bytes  lib/jspretty.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-07 09:47:48 +0000   191376 bytes  lib/markuppretty.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-07 09:47:48 +0000     7392 bytes  lib/safeSort.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-07 09:47:48 +0000     1835 bytes  license.txt</tspan>
-<tspan x="10" y="698"> 42.  2017-04-07 09:47:48 +0000    15701 bytes  overview.xhtml</tspan>
-<tspan x="10" y="714"> 43.  2017-04-07 09:47:48 +0000     2974 bytes  package.json</tspan>
-<tspan x="10" y="730"> 44.  2017-04-07 09:47:48 +0000   230604 bytes  prettydiff.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-07 09:47:48 +0000      619 bytes  proxy.php</tspan>
-<tspan x="10" y="762"> 46.  2017-04-07 09:47:48 +0000    14916 bytes  samples.xhtml</tspan>
-<tspan x="10" y="778"> 47.  2017-04-07 09:47:48 +0000   262589 bytes  test/lint.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-07 09:47:48 +0000     2371 bytes  test/samples_correct/beautification_css.txt</tspan>
-<tspan x="10" y="810"> 49.  2017-04-07 09:47:48 +0000      890 bytes  test/samples_correct/beautification_css1.txt</tspan>
-<tspan x="10" y="826"> 50.  2017-04-07 09:47:48 +0000     1736 bytes  test/samples_correct/beautification_css2.txt</tspan>
-<tspan x="10" y="842"> 51.  2017-04-07 09:47:48 +0000      806 bytes  test/samples_correct/beautification_css_compress\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 12:40:33 +0000 12025213 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 12:40:33 +0000      322 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 12:40:33 +0000   606944 bytes  api/dom.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 12:40:33 +0000   261964 bytes  api/node-local.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 12:40:33 +0000   211536 bytes  api/prettydiff.wsf</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 12:40:33 +0000       49 bytes  bin/prettydiff</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 12:40:33 +0000      866 bytes  bower.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 12:40:33 +0000     4253 bytes  changelog.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 12:40:33 +0000    30745 bytes  css/color_canvas.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 12:40:33 +0000    31681 bytes  css/color_shadow.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 12:40:33 +0000    27839 bytes  css/color_white.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 12:40:33 +0000     1414 bytes  css/documentation.css</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 12:40:33 +0000     3320 bytes  css/global.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 12:40:33 +0000     1671 bytes  css/index.css</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 12:40:33 +0000      745 bytes  css/page_specific.css</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 12:40:33 +0000     4968 bytes  css/reports.css</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 12:40:33 +0000    20966 bytes  css/webtool_only.css</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 12:40:33 +0000   135252 bytes  documentation.xhtml</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 12:40:33 +0000    43951 bytes  guide/closure_with_jsscope.xhtml</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 12:40:33 +0000    27412 bytes  guide/codeArchitecture.xhtml</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 12:40:33 +0000    11089 bytes  guide/diffcli.xhtml</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 12:40:33 +0000     9390 bytes  guide/jscorrect.xhtml</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 12:40:33 +0000    14443 bytes  guide/jshtml.xhtml</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 12:40:33 +0000    13733 bytes  guide/nativeModules.xhtml</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 12:40:33 +0000     8260 bytes  guide/prettydiffrc.xhtml</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 12:40:33 +0000    16926 bytes  guide/react_jsx.xhtml</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 12:40:33 +0000    11137 bytes  guide/styleguide.xhtml</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 12:40:33 +0000     8091 bytes  guide/tag_ignore.xhtml</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 12:40:33 +0000    50098 bytes  guide/unrelated_abtest.xhtml</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 12:40:33 +0000    15787 bytes  guide/unrelated_closureToAChild.xhtml</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 12:40:33 +0000    48080 bytes  guide/unrelated_dom.xhtml</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 12:40:33 +0000    28966 bytes  guide/unrelated_rockstar.xhtml</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 12:40:33 +0000       43 bytes  inch.json</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 12:40:33 +0000   109917 bytes  index.xhtml</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 12:40:33 +0000    18863 bytes  jspretty.xhtml</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 12:40:33 +0000    96882 bytes  lib/csspretty.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 12:40:33 +0000     4200 bytes  lib/csvpretty.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-25 12:40:33 +0000    72281 bytes  lib/diffview.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-25 12:40:33 +0000   301959 bytes  lib/jspretty.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-25 12:40:33 +0000   191376 bytes  lib/markuppretty.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-25 12:40:33 +0000     7392 bytes  lib/safeSort.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-25 12:40:33 +0000     1835 bytes  license.txt</tspan>
+<tspan x="10" y="698"> 42.  2017-04-25 12:40:33 +0000    15701 bytes  overview.xhtml</tspan>
+<tspan x="10" y="714"> 43.  2017-04-25 12:40:33 +0000     2974 bytes  package.json</tspan>
+<tspan x="10" y="730"> 44.  2017-04-25 12:40:33 +0000   230604 bytes  prettydiff.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-25 12:40:33 +0000      619 bytes  proxy.php</tspan>
+<tspan x="10" y="762"> 46.  2017-04-25 12:40:33 +0000    14916 bytes  samples.xhtml</tspan>
+<tspan x="10" y="778"> 47.  2017-04-25 12:40:33 +0000   262589 bytes  test/lint.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-25 12:40:33 +0000     2371 bytes  test/samples_correct/beautification_css.txt</tspan>
+<tspan x="10" y="810"> 49.  2017-04-25 12:40:33 +0000      890 bytes  test/samples_correct/beautification_css1.txt</tspan>
+<tspan x="10" y="826"> 50.  2017-04-25 12:40:33 +0000     1736 bytes  test/samples_correct/beautification_css2.txt</tspan>
+<tspan x="10" y="842"> 51.  2017-04-25 12:40:33 +0000      806 bytes  test/samples_correct/beautification_css_compress\</tspan>
 <tspan x="10" y="858">ed.txt</tspan>
-<tspan x="10" y="874"> 52.  2017-04-07 09:47:48 +0000    28354 bytes  test/samples_correct/beautification_css_less.txt</tspan>
-<tspan x="10" y="890"> 53.  2017-04-07 09:47:48 +0000      708 bytes  test/samples_correct/beautification_css_lines.tx\</tspan>
+<tspan x="10" y="874"> 52.  2017-04-25 12:40:33 +0000    28354 bytes  test/samples_correct/beautification_css_less.txt</tspan>
+<tspan x="10" y="890"> 53.  2017-04-25 12:40:33 +0000      708 bytes  test/samples_correct/beautification_css_lines.tx\</tspan>
 <tspan x="10" y="906">t</tspan>
-<tspan x="10" y="922"> 54.  2017-04-07 09:47:48 +0000     3083 bytes  test/samples_correct/beautification_elm.txt</tspan>
-<tspan x="10" y="938"> 55.  2017-04-07 09:47:48 +0000      603 bytes  test/samples_correct/beautification_elm1.txt</tspan>
-<tspan x="10" y="954"> 56.  2017-04-07 09:47:48 +0000      446 bytes  test/samples_correct/beautification_javascript1.\</tspan>
+<tspan x="10" y="922"> 54.  2017-04-25 12:40:33 +0000     3083 bytes  test/samples_correct/beautification_elm.txt</tspan>
+<tspan x="10" y="938"> 55.  2017-04-25 12:40:33 +0000      603 bytes  test/samples_correct/beautification_elm1.txt</tspan>
+<tspan x="10" y="954"> 56.  2017-04-25 12:40:33 +0000      446 bytes  test/samples_correct/beautification_javascript1.\</tspan>
 <tspan x="10" y="970">txt</tspan>
-<tspan x="10" y="986"> 57.  2017-04-07 09:47:48 +0000      438 bytes  test/samples_correct/beautification_javascript2.\</tspan>
+<tspan x="10" y="986"> 57.  2017-04-25 12:40:33 +0000      438 bytes  test/samples_correct/beautification_javascript2.\</tspan>
 <tspan x="10" y="1002">txt</tspan>
-<tspan x="10" y="1018"> 58.  2017-04-07 09:47:48 +0000      431 bytes  test/samples_correct/beautification_javascript3.\</tspan>
+<tspan x="10" y="1018"> 58.  2017-04-25 12:40:33 +0000      431 bytes  test/samples_correct/beautification_javascript3.\</tspan>
 <tspan x="10" y="1034">txt</tspan>
-<tspan x="10" y="1050"> 59.  2017-04-07 09:47:48 +0000     3079 bytes  test/samples_correct/beautification_javascript4.\</tspan>
+<tspan x="10" y="1050"> 59.  2017-04-25 12:40:33 +0000     3079 bytes  test/samples_correct/beautification_javascript4.\</tspan>
 <tspan x="10" y="1066">txt</tspan>
-<tspan x="10" y="1082"> 60.  2017-04-07 09:47:48 +0000     3301 bytes  test/samples_correct/beautification_javascript_a\</tspan>
+<tspan x="10" y="1082"> 60.  2017-04-25 12:40:33 +0000     3301 bytes  test/samples_correct/beautification_javascript_a\</tspan>
 <tspan x="10" y="1098">atern.txt</tspan>
-<tspan x="10" y="1114"> 61.  2017-04-07 09:47:48 +0000   666769 bytes  test/samples_correct/beautification_javascript_a\</tspan>
+<tspan x="10" y="1114"> 61.  2017-04-25 12:40:33 +0000   666769 bytes  test/samples_correct/beautification_javascript_a\</tspan>
 <tspan x="10" y="1130">ce.txt</tspan>
-<tspan x="10" y="1146"> 62.  2017-04-07 09:47:48 +0000   860895 bytes  test/samples_correct/beautification_javascript_a\</tspan>
+<tspan x="10" y="1146"> 62.  2017-04-25 12:40:33 +0000   860895 bytes  test/samples_correct/beautification_javascript_a\</tspan>
 <tspan x="10" y="1162">ngular.txt</tspan>
-<tspan x="10" y="1178"> 63.  2017-04-07 09:47:48 +0000   576407 bytes  test/samples_correct/beautification_javascript_c\</tspan>
+<tspan x="10" y="1178"> 63.  2017-04-25 12:40:33 +0000   576407 bytes  test/samples_correct/beautification_javascript_c\</tspan>
 <tspan x="10" y="1194">odemirror.txt</tspan>
-<tspan x="10" y="1210"> 64.  2017-04-07 09:47:48 +0000      945 bytes  test/samples_correct/beautification_javascript_c\</tspan>
+<tspan x="10" y="1210"> 64.  2017-04-25 12:40:33 +0000      945 bytes  test/samples_correct/beautification_javascript_c\</tspan>
 <tspan x="10" y="1226">ommentPosition.txt</tspan>
-<tspan x="10" y="1242"> 65.  2017-04-07 09:47:48 +0000       81 bytes  test/samples_correct/beautification_javascript_c\</tspan>
+<tspan x="10" y="1242"> 65.  2017-04-25 12:40:33 +0000       81 bytes  test/samples_correct/beautification_javascript_c\</tspan>
 <tspan x="10" y="1258">rlf.txt</tspan>
-<tspan x="10" y="1274"> 66.  2017-04-07 09:47:48 +0000     1163 bytes  test/samples_correct/beautification_javascript_d\</tspan>
+<tspan x="10" y="1274"> 66.  2017-04-25 12:40:33 +0000     1163 bytes  test/samples_correct/beautification_javascript_d\</tspan>
 <tspan x="10" y="1290">estruct.txt</tspan>
-<tspan x="10" y="1306"> 67.  2017-04-07 09:47:48 +0000     4789 bytes  test/samples_correct/beautification_javascript_j\</tspan>
+<tspan x="10" y="1306"> 67.  2017-04-25 12:40:33 +0000     4789 bytes  test/samples_correct/beautification_javascript_j\</tspan>
 <tspan x="10" y="1322">son1.txt</tspan>
-<tspan x="10" y="1338"> 68.  2017-04-07 09:47:48 +0000      568 bytes  test/samples_correct/beautification_javascript_j\</tspan>
+<tspan x="10" y="1338"> 68.  2017-04-25 12:40:33 +0000      568 bytes  test/samples_correct/beautification_javascript_j\</tspan>
 <tspan x="10" y="1354">son2.txt</tspan>
-<tspan x="10" y="1370"> 69.  2017-04-07 09:47:48 +0000      322 bytes  test/samples_correct/beautification_javascript_j\</tspan>
+<tspan x="10" y="1370"> 69.  2017-04-25 12:40:33 +0000      322 bytes  test/samples_correct/beautification_javascript_j\</tspan>
 <tspan x="10" y="1386">son3.txt</tspan>
-<tspan x="10" y="1402"> 70.  2017-04-07 09:47:48 +0000      622 bytes  test/samples_correct/beautification_javascript_j\</tspan>
+<tspan x="10" y="1402"> 70.  2017-04-25 12:40:33 +0000      622 bytes  test/samples_correct/beautification_javascript_j\</tspan>
 <tspan x="10" y="1418">son4.txt</tspan>
-<tspan x="10" y="1434"> 71.  2017-04-07 09:47:48 +0000      249 bytes  test/samples_correct/beautification_javascript_j\</tspan>
+<tspan x="10" y="1434"> 71.  2017-04-25 12:40:33 +0000      249 bytes  test/samples_correct/beautification_javascript_j\</tspan>
 <tspan x="10" y="1450">son5.txt</tspan>
-<tspan x="10" y="1466"> 72.  2017-04-07 09:47:48 +0000     5672 bytes  test/samples_correct/beautification_javascript_j\</tspan>
+<tspan x="10" y="1466"> 72.  2017-04-25 12:40:33 +0000     5672 bytes  test/samples_correct/beautification_javascript_j\</tspan>
 <tspan x="10" y="1482">sx.txt</tspan>
-<tspan x="10" y="1498"> 73.  2017-04-07 09:47:48 +0000      418 bytes  test/samples_correct/beautification_javascript_j\</tspan>
+<tspan x="10" y="1498"> 73.  2017-04-25 12:40:33 +0000      418 bytes  test/samples_correct/beautification_javascript_j\</tspan>
 <tspan x="10" y="1514">sxwrap.txt</tspan>
-<tspan x="10" y="1530"> 74.  2017-04-07 09:47:48 +0000     8305 bytes  test/samples_correct/beautification_javascript_n\</tspan>
+<tspan x="10" y="1530"> 74.  2017-04-25 12:40:33 +0000     8305 bytes  test/samples_correct/beautification_javascript_n\</tspan>
 <tspan x="10" y="1546">esting.txt</tspan>
-<tspan x="10" y="1562"> 75.  2017-04-07 09:47:48 +0000  1778060 bytes  test/samples_correct/beautification_javascript_o\</tspan>
+<tspan x="10" y="1562"> 75.  2017-04-25 12:40:33 +0000  1778060 bytes  test/samples_correct/beautification_javascript_o\</tspan>
 <tspan x="10" y="1578">bfuscated_adobe.txt</tspan>
-<tspan x="10" y="1594"> 76.  2017-04-07 09:47:48 +0000   430852 bytes  test/samples_correct/beautification_javascript_o\</tspan>
+<tspan x="10" y="1594"> 76.  2017-04-25 12:40:33 +0000   430852 bytes  test/samples_correct/beautification_javascript_o\</tspan>
 <tspan x="10" y="1610">bfuscated_tvly.txt</tspan>
-<tspan x="10" y="1626"> 77.  2017-04-07 09:47:48 +0000      418 bytes  test/samples_correct/beautification_javascript_t\</tspan>
+<tspan x="10" y="1626"> 77.  2017-04-25 12:40:33 +0000      418 bytes  test/samples_correct/beautification_javascript_t\</tspan>
 <tspan x="10" y="1642">railingcomma.txt</tspan>
-<tspan x="10" y="1658"> 78.  2017-04-07 09:47:48 +0000     1574 bytes  test/samples_correct/beautification_javascript_w\</tspan>
+<tspan x="10" y="1658"> 78.  2017-04-25 12:40:33 +0000     1574 bytes  test/samples_correct/beautification_javascript_w\</tspan>
 <tspan x="10" y="1674">rap.txt</tspan>
-<tspan x="10" y="1690"> 79.  2017-04-07 09:47:48 +0000     2420 bytes  test/samples_correct/beautification_liquid.txt</tspan>
-<tspan x="10" y="1706"> 80.  2017-04-07 09:47:48 +0000     1436 bytes  test/samples_correct/beautification_markup.txt</tspan>
-<tspan x="10" y="1722"> 81.  2017-04-07 09:47:48 +0000    12725 bytes  test/samples_correct/beautification_markup_cfml.\</tspan>
+<tspan x="10" y="1690"> 79.  2017-04-25 12:40:33 +0000     2420 bytes  test/samples_correct/beautification_liquid.txt</tspan>
+<tspan x="10" y="1706"> 80.  2017-04-25 12:40:33 +0000     1436 bytes  test/samples_correct/beautification_markup.txt</tspan>
+<tspan x="10" y="1722"> 81.  2017-04-25 12:40:33 +0000    12725 bytes  test/samples_correct/beautification_markup_cfml.\</tspan>
 <tspan x="10" y="1738">txt</tspan>
-<tspan x="10" y="1754"> 82.  2017-04-07 09:47:48 +0000       61 bytes  test/samples_correct/beautification_markup_comme\</tspan>
+<tspan x="10" y="1754"> 82.  2017-04-25 12:40:33 +0000       61 bytes  test/samples_correct/beautification_markup_comme\</tspan>
 <tspan x="10" y="1770">nt.txt</tspan>
-<tspan x="10" y="1786"> 83.  2017-04-07 09:47:48 +0000      475 bytes  test/samples_correct/beautification_markup_ejs.t\</tspan>
+<tspan x="10" y="1786"> 83.  2017-04-25 12:40:33 +0000      475 bytes  test/samples_correct/beautification_markup_ejs.t\</tspan>
 <tspan x="10" y="1802">xt</tspan>
-<tspan x="10" y="1818"> 84.  2017-04-07 09:47:48 +0000    41725 bytes  test/samples_correct/beautification_markup_ignor\</tspan>
+<tspan x="10" y="1818"> 84.  2017-04-25 12:40:33 +0000    41725 bytes  test/samples_correct/beautification_markup_ignor\</tspan>
 <tspan x="10" y="1834">e.txt</tspan>
-<tspan x="10" y="1850"> 85.  2017-04-07 09:47:48 +0000     1255 bytes  test/samples_correct/beautification_markup_templ\</tspan>
+<tspan x="10" y="1850"> 85.  2017-04-25 12:40:33 +0000     1255 bytes  test/samples_correct/beautification_markup_templ\</tspan>
 <tspan x="10" y="1866">ateTypes.txt</tspan>
-<tspan x="10" y="1882"> 86.  2017-04-07 09:47:48 +0000      634 bytes  test/samples_correct/beautification_markup_textw\</tspan>
+<tspan x="10" y="1882"> 86.  2017-04-25 12:40:33 +0000      634 bytes  test/samples_correct/beautification_markup_textw\</tspan>
 <tspan x="10" y="1898">rap.txt</tspan>
-<tspan x="10" y="1914"> 87.  2017-04-07 09:47:48 +0000  1130438 bytes  test/samples_correct/beautification_markup_tvly1\</tspan>
+<tspan x="10" y="1914"> 87.  2017-04-25 12:40:33 +0000  1130438 bytes  test/samples_correct/beautification_markup_tvly1\</tspan>
 <tspan x="10" y="1930">.txt</tspan>
-<tspan x="10" y="1946"> 88.  2017-04-07 09:47:48 +0000   272509 bytes  test/samples_correct/beautification_markup_tvly2\</tspan>
+<tspan x="10" y="1946"> 88.  2017-04-25 12:40:33 +0000   272509 bytes  test/samples_correct/beautification_markup_tvly2\</tspan>
 <tspan x="10" y="1962">.txt</tspan>
-<tspan x="10" y="1978"> 89.  2017-04-07 09:47:48 +0000     1104 bytes  test/samples_correct/beautification_markup_twig.\</tspan>
+<tspan x="10" y="1978"> 89.  2017-04-25 12:40:33 +0000     1104 bytes  test/samples_correct/beautification_markup_twig.\</tspan>
 <tspan x="10" y="1994">txt</tspan>
-<tspan x="10" y="2010"> 90.  2017-04-07 09:47:48 +0000     2273 bytes  test/samples_raw/beautification_css.txt</tspan>
-<tspan x="10" y="2026"> 91.  2017-04-07 09:47:48 +0000      798 bytes  test/samples_raw/beautification_css1.txt</tspan>
-<tspan x="10" y="2042"> 92.  2017-04-07 09:47:48 +0000     1731 bytes  test/samples_raw/beautification_css2.txt</tspan>
-<tspan x="10" y="2058"> 93.  2017-04-07 09:47:48 +0000      951 bytes  test/samples_raw/beautification_css_compressed.t\</tspan>
+<tspan x="10" y="2010"> 90.  2017-04-25 12:40:33 +0000     2273 bytes  test/samples_raw/beautification_css.txt</tspan>
+<tspan x="10" y="2026"> 91.  2017-04-25 12:40:33 +0000      798 bytes  test/samples_raw/beautification_css1.txt</tspan>
+<tspan x="10" y="2042"> 92.  2017-04-25 12:40:33 +0000     1731 bytes  test/samples_raw/beautification_css2.txt</tspan>
+<tspan x="10" y="2058"> 93.  2017-04-25 12:40:33 +0000      951 bytes  test/samples_raw/beautification_css_compressed.t\</tspan>
 <tspan x="10" y="2074">xt</tspan>
-<tspan x="10" y="2090"> 94.  2017-04-07 09:47:48 +0000    22555 bytes  test/samples_raw/beautification_css_less.txt</tspan>
-<tspan x="10" y="2106"> 95.  2017-04-07 09:47:48 +0000      688 bytes  test/samples_raw/beautification_css_lines.txt</tspan>
-<tspan x="10" y="2122"> 96.  2017-04-07 09:47:48 +0000     1543 bytes  test/samples_raw/beautification_elm.txt</tspan>
-<tspan x="10" y="2138"> 97.  2017-04-07 09:47:48 +0000      522 bytes  test/samples_raw/beautification_elm1.txt</tspan>
-<tspan x="10" y="2154"> 98.  2017-04-07 09:47:48 +0000      306 bytes  test/samples_raw/beautification_javascript1.txt</tspan>
-<tspan x="10" y="2170"> 99.  2017-04-07 09:47:48 +0000      271 bytes  test/samples_raw/beautification_javascript2.txt</tspan>
-<tspan x="10" y="2186">100.  2017-04-07 09:47:48 +0000      283 bytes  test/samples_raw/beautification_javascript3.txt</tspan>
-<tspan x="10" y="2202">101.  2017-04-07 09:47:48 +0000     1972 bytes  test/samples_raw/beautification_javascript4.txt</tspan>
-<tspan x="10" y="2218">102.  2017-04-07 09:47:48 +0000     3880 bytes  test/samples_raw/beautification_javascript_aater\</tspan>
+<tspan x="10" y="2090"> 94.  2017-04-25 12:40:33 +0000    22555 bytes  test/samples_raw/beautification_css_less.txt</tspan>
+<tspan x="10" y="2106"> 95.  2017-04-25 12:40:33 +0000      688 bytes  test/samples_raw/beautification_css_lines.txt</tspan>
+<tspan x="10" y="2122"> 96.  2017-04-25 12:40:33 +0000     1543 bytes  test/samples_raw/beautification_elm.txt</tspan>
+<tspan x="10" y="2138"> 97.  2017-04-25 12:40:33 +0000      522 bytes  test/samples_raw/beautification_elm1.txt</tspan>
+<tspan x="10" y="2154"> 98.  2017-04-25 12:40:33 +0000      306 bytes  test/samples_raw/beautification_javascript1.txt</tspan>
+<tspan x="10" y="2170"> 99.  2017-04-25 12:40:33 +0000      271 bytes  test/samples_raw/beautification_javascript2.txt</tspan>
+<tspan x="10" y="2186">100.  2017-04-25 12:40:33 +0000      283 bytes  test/samples_raw/beautification_javascript3.txt</tspan>
+<tspan x="10" y="2202">101.  2017-04-25 12:40:33 +0000     1972 bytes  test/samples_raw/beautification_javascript4.txt</tspan>
+<tspan x="10" y="2218">102.  2017-04-25 12:40:33 +0000     3880 bytes  test/samples_raw/beautification_javascript_aater\</tspan>
 <tspan x="10" y="2234">n.txt</tspan>
-<tspan x="10" y="2250">103.  2017-04-07 09:47:48 +0000   345892 bytes  test/samples_raw/beautification_javascript_ace.t\</tspan>
+<tspan x="10" y="2250">103.  2017-04-25 12:40:33 +0000   345892 bytes  test/samples_raw/beautification_javascript_ace.t\</tspan>
 <tspan x="10" y="2266">xt</tspan>
-<tspan x="10" y="2282">104.  2017-04-07 09:47:48 +0000   728056 bytes  test/samples_raw/beautification_javascript_angul\</tspan>
+<tspan x="10" y="2282">104.  2017-04-25 12:40:33 +0000   728056 bytes  test/samples_raw/beautification_javascript_angul\</tspan>
 <tspan x="10" y="2298">ar.txt</tspan>
-<tspan x="10" y="2314">105.  2017-04-07 09:47:48 +0000   430801 bytes  test/samples_raw/beautification_javascript_codem\</tspan>
+<tspan x="10" y="2314">105.  2017-04-25 12:40:33 +0000   430801 bytes  test/samples_raw/beautification_javascript_codem\</tspan>
 <tspan x="10" y="2330">irror.txt</tspan>
-<tspan x="10" y="2346">106.  2017-04-07 09:47:48 +0000      831 bytes  test/samples_raw/beautification_javascript_comme\</tspan>
+<tspan x="10" y="2346">106.  2017-04-25 12:40:33 +0000      831 bytes  test/samples_raw/beautification_javascript_comme\</tspan>
 <tspan x="10" y="2362">ntPosition.txt</tspan>
-<tspan x="10" y="2378">107.  2017-04-07 09:47:48 +0000       76 bytes  test/samples_raw/beautification_javascript_crlf.\</tspan>
+<tspan x="10" y="2378">107.  2017-04-25 12:40:33 +0000       76 bytes  test/samples_raw/beautification_javascript_crlf.\</tspan>
 <tspan x="10" y="2394">txt</tspan>
-<tspan x="10" y="2410">108.  2017-04-07 09:47:48 +0000     1296 bytes  test/samples_raw/beautification_javascript_destr\</tspan>
+<tspan x="10" y="2410">108.  2017-04-25 12:40:33 +0000     1296 bytes  test/samples_raw/beautification_javascript_destr\</tspan>
 <tspan x="10" y="2426">uct.txt</tspan>
-<tspan x="10" y="2442">109.  2017-04-07 09:47:48 +0000     3374 bytes  test/samples_raw/beautification_javascript_json1\</tspan>
+<tspan x="10" y="2442">109.  2017-04-25 12:40:33 +0000     3374 bytes  test/samples_raw/beautification_javascript_json1\</tspan>
 <tspan x="10" y="2458">.txt</tspan>
-<tspan x="10" y="2474">110.  2017-04-07 09:47:48 +0000      490 bytes  test/samples_raw/beautification_javascript_json2\</tspan>
+<tspan x="10" y="2474">110.  2017-04-25 12:40:33 +0000      490 bytes  test/samples_raw/beautification_javascript_json2\</tspan>
 <tspan x="10" y="2490">.txt</tspan>
-<tspan x="10" y="2506">111.  2017-04-07 09:47:48 +0000      277 bytes  test/samples_raw/beautification_javascript_json3\</tspan>
+<tspan x="10" y="2506">111.  2017-04-25 12:40:33 +0000      277 bytes  test/samples_raw/beautification_javascript_json3\</tspan>
 <tspan x="10" y="2522">.txt</tspan>
-<tspan x="10" y="2538">112.  2017-04-07 09:47:48 +0000      461 bytes  test/samples_raw/beautification_javascript_json4\</tspan>
+<tspan x="10" y="2538">112.  2017-04-25 12:40:33 +0000      461 bytes  test/samples_raw/beautification_javascript_json4\</tspan>
 <tspan x="10" y="2554">.txt</tspan>
-<tspan x="10" y="2570">113.  2017-04-07 09:47:48 +0000      267 bytes  test/samples_raw/beautification_javascript_json5\</tspan>
+<tspan x="10" y="2570">113.  2017-04-25 12:40:33 +0000      267 bytes  test/samples_raw/beautification_javascript_json5\</tspan>
 <tspan x="10" y="2586">.txt</tspan>
-<tspan x="10" y="2602">114.  2017-04-07 09:47:48 +0000     4747 bytes  test/samples_raw/beautification_javascript_jsx.t\</tspan>
+<tspan x="10" y="2602">114.  2017-04-25 12:40:33 +0000     4747 bytes  test/samples_raw/beautification_javascript_jsx.t\</tspan>
 <tspan x="10" y="2618">xt</tspan>
-<tspan x="10" y="2634">115.  2017-04-07 09:47:48 +0000      289 bytes  test/samples_raw/beautification_javascript_jsxwr\</tspan>
+<tspan x="10" y="2634">115.  2017-04-25 12:40:33 +0000      289 bytes  test/samples_raw/beautification_javascript_jsxwr\</tspan>
 <tspan x="10" y="2650">ap.txt</tspan>
-<tspan x="10" y="2666">116.  2017-04-07 09:47:48 +0000      582 bytes  test/samples_raw/beautification_javascript_nesti\</tspan>
+<tspan x="10" y="2666">116.  2017-04-25 12:40:33 +0000      582 bytes  test/samples_raw/beautification_javascript_nesti\</tspan>
 <tspan x="10" y="2682">ng.txt</tspan>
-<tspan x="10" y="2698">117.  2017-04-07 09:47:48 +0000   827843 bytes  test/samples_raw/beautification_javascript_obfus\</tspan>
+<tspan x="10" y="2698">117.  2017-04-25 12:40:33 +0000   827843 bytes  test/samples_raw/beautification_javascript_obfus\</tspan>
 <tspan x="10" y="2714">cated_adobe.txt</tspan>
-<tspan x="10" y="2730">118.  2017-04-07 09:47:48 +0000   192671 bytes  test/samples_raw/beautification_javascript_obfus\</tspan>
+<tspan x="10" y="2730">118.  2017-04-25 12:40:33 +0000   192671 bytes  test/samples_raw/beautification_javascript_obfus\</tspan>
 <tspan x="10" y="2746">cated_tvly.txt</tspan>
-<tspan x="10" y="2762">119.  2017-04-07 09:47:48 +0000      307 bytes  test/samples_raw/beautification_javascript_trail\</tspan>
+<tspan x="10" y="2762">119.  2017-04-25 12:40:33 +0000      307 bytes  test/samples_raw/beautification_javascript_trail\</tspan>
 <tspan x="10" y="2778">ingcomma.txt</tspan>
-<tspan x="10" y="2794">120.  2017-04-07 09:47:48 +0000     1356 bytes  test/samples_raw/beautification_javascript_wrap.\</tspan>
+<tspan x="10" y="2794">120.  2017-04-25 12:40:33 +0000     1356 bytes  test/samples_raw/beautification_javascript_wrap.\</tspan>
 <tspan x="10" y="2810">txt</tspan>
-<tspan x="10" y="2826">121.  2017-04-07 09:47:48 +0000     1737 bytes  test/samples_raw/beautification_liquid.txt</tspan>
-<tspan x="10" y="2842">122.  2017-04-07 09:47:48 +0000      941 bytes  test/samples_raw/beautification_markup.txt</tspan>
-<tspan x="10" y="2858">123.  2017-04-07 09:47:48 +0000    10834 bytes  test/samples_raw/beautification_markup_cfml.txt</tspan>
-<tspan x="10" y="2874">124.  2017-04-07 09:47:48 +0000       57 bytes  test/samples_raw/beautification_markup_comment.t\</tspan>
+<tspan x="10" y="2826">121.  2017-04-25 12:40:33 +0000     1737 bytes  test/samples_raw/beautification_liquid.txt</tspan>
+<tspan x="10" y="2842">122.  2017-04-25 12:40:33 +0000      941 bytes  test/samples_raw/beautification_markup.txt</tspan>
+<tspan x="10" y="2858">123.  2017-04-25 12:40:33 +0000    10834 bytes  test/samples_raw/beautification_markup_cfml.txt</tspan>
+<tspan x="10" y="2874">124.  2017-04-25 12:40:33 +0000       57 bytes  test/samples_raw/beautification_markup_comment.t\</tspan>
 <tspan x="10" y="2890">xt</tspan>
-<tspan x="10" y="2906">125.  2017-04-07 09:47:48 +0000      475 bytes  test/samples_raw/beautification_markup_ejs.txt</tspan>
-<tspan x="10" y="2922">126.  2017-04-07 09:47:48 +0000    34442 bytes  test/samples_raw/beautification_markup_ignore.tx\</tspan>
+<tspan x="10" y="2906">125.  2017-04-25 12:40:33 +0000      475 bytes  test/samples_raw/beautification_markup_ejs.txt</tspan>
+<tspan x="10" y="2922">126.  2017-04-25 12:40:33 +0000    34442 bytes  test/samples_raw/beautification_markup_ignore.tx\</tspan>
 <tspan x="10" y="2938">t</tspan>
-<tspan x="10" y="2954">127.  2017-04-07 09:47:48 +0000     1011 bytes  test/samples_raw/beautification_markup_templateT\</tspan>
+<tspan x="10" y="2954">127.  2017-04-25 12:40:33 +0000     1011 bytes  test/samples_raw/beautification_markup_templateT\</tspan>
 <tspan x="10" y="2970">ypes.txt</tspan>
-<tspan x="10" y="2986">128.  2017-04-07 09:47:48 +0000      464 bytes  test/samples_raw/beautification_markup_textwrap.\</tspan>
+<tspan x="10" y="2986">128.  2017-04-25 12:40:33 +0000      464 bytes  test/samples_raw/beautification_markup_textwrap.\</tspan>
 <tspan x="10" y="3002">txt</tspan>
-<tspan x="10" y="3018">129.  2017-04-07 09:47:48 +0000   437157 bytes  test/samples_raw/beautification_markup_tvly1.txt</tspan>
-<tspan x="10" y="3034">130.  2017-04-07 09:47:48 +0000   123830 bytes  test/samples_raw/beautification_markup_tvly2.txt</tspan>
-<tspan x="10" y="3050">131.  2017-04-07 09:47:48 +0000      843 bytes  test/samples_raw/beautification_markup_twig.txt</tspan>
-<tspan x="10" y="3066">132.  2017-04-07 09:47:48 +0000     1011 bytes  test/samples_raw/diff.txt</tspan>
-<tspan x="10" y="3082">133.  2017-04-07 09:47:48 +0000     1338 bytes  test/samples_raw/diff_text1.txt</tspan>
-<tspan x="10" y="3098">134.  2017-04-07 09:47:48 +0000      460 bytes  test/samples_raw/minification_javascript.txt</tspan>
-<tspan x="10" y="3114">135.  2017-04-07 09:47:48 +0000       38 bytes  test/today.js</tspan>
+<tspan x="10" y="3018">129.  2017-04-25 12:40:33 +0000   437157 bytes  test/samples_raw/beautification_markup_tvly1.txt</tspan>
+<tspan x="10" y="3034">130.  2017-04-25 12:40:33 +0000   123830 bytes  test/samples_raw/beautification_markup_tvly2.txt</tspan>
+<tspan x="10" y="3050">131.  2017-04-25 12:40:33 +0000      843 bytes  test/samples_raw/beautification_markup_twig.txt</tspan>
+<tspan x="10" y="3066">132.  2017-04-25 12:40:33 +0000     1011 bytes  test/samples_raw/diff.txt</tspan>
+<tspan x="10" y="3082">133.  2017-04-25 12:40:33 +0000     1338 bytes  test/samples_raw/diff_text1.txt</tspan>
+<tspan x="10" y="3098">134.  2017-04-25 12:40:33 +0000      460 bytes  test/samples_raw/minification_javascript.txt</tspan>
+<tspan x="10" y="3114">135.  2017-04-25 12:40:33 +0000       38 bytes  test/today.js</tspan>
 </text>
 </svg>
